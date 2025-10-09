@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    background-color: black;
+    width: 250px;
+    /
+    border: 100%;
+    font-size: 25px;
+    text-align: center;
+    box-sizing: border-box;
+    font-style: italic;
+    padding: 25px;
+    margin: 95px;
+    border-radius: 15px;
+    border-style: solid;
+
+
+}
+
+body {
+    background-color: aqua;
+}
